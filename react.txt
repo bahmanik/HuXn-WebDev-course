@@ -1,0 +1,19 @@
+creating new react app = bun create vite@latest
+
+some notes
+1- an html element is a component of html that tells the browser how to structure and interpret a part of html document
+2- a self closing tag is a tag without content
+3- balbel is a open source js library to interpret jsx content
+4- jsx stands for js xml, writing js with html elements
+5- source to source compiler
+6- react application is a single page application
+7- CDN = content delivery network
+
+some usefull snippet
+rafce
+
+some libraries
+1- daisyUI: A Tailwind CSS plugin that provides pre-styled, customizable UI components.
+2- Radix: A library of unstyled, accessible UI primitives for building custom components in React.
+3- shadcn: A set of pre-built, accessible UI components for React, styled with Tailwind CSS.
+4- react hook form: A library for building performant, flexible forms in React using hooks and TypeScript generics.

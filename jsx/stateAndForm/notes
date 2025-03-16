@@ -1,0 +1,7 @@
+in forms you can have two aprouches
+1- controling value and form submit by yourself (recommanded)
+2- submitting with default html behavior
+
+if you dont write this form get submited on every button press
+write preventDefault() inside handleSubmit
+
