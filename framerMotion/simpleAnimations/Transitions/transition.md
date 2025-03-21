@@ -7,3 +7,5 @@ Transitions Properties
 - **Easing**  The speed curve of the animation.
 - **Delay**  How long to wait before starting the animation.
 - **repeat**  How many times animation get reoeated.
+
+tip: you can also add physics animation like transition={{ type: "spring", stiffness: 300 }}
