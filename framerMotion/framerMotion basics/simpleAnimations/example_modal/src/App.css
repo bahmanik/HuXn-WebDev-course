@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  background: yellow;
+  border-radius: 50%;
+}
+
+body {
+  color: white;
+  background-color: #0d1017;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
